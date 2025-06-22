@@ -1,4 +1,6 @@
-<img width="943" alt="GirlBytes" src="https://github.com/user-attachments/assets/c8c33b2e-ec59-4845-9462-b8d3d286b942" />
+
+<img width="944" alt="GirlBytes Website Color" src="https://github.com/user-attachments/assets/b94e018a-8bdc-4318-a32d-48b8031c5679" />
+
 
 **Key Steps Completed 6/21/2025 and notes because I be forgetting how to do this:**
 
