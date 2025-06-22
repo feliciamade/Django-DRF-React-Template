@@ -1,4 +1,5 @@
 import React from 'react';
+import Label from '../Label/Label'; 
 
 function Card(props) {
 
@@ -15,6 +16,7 @@ function Card(props) {
 
   return (
     <div style={cardStyles}>
+        <Label label="label" />
     </div>
   );
 }
