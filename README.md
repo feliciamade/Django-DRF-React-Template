@@ -1,5 +1,4 @@
-<img width="941" alt="GirlBytes Website" src="https://github.com/user-attachments/assets/b08d722b-a7b6-43ea-80b5-74c1af740921" />
-
+<img width="943" alt="GirlBytes" src="https://github.com/user-attachments/assets/c8c33b2e-ec59-4845-9462-b8d3d286b942" />
 
 **Key Steps Completed 6/21/2025 and notes because I be forgetting how to do this:**
 
