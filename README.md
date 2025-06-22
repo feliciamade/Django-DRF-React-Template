@@ -1,4 +1,5 @@
-![localhost_3001_ (1)](https://github.com/user-attachments/assets/a8fc257a-965e-4d05-90c8-836709f55e1b)
+
+<img width="940" alt="GirlBytes Website" src="https://github.com/user-attachments/assets/01af3a66-1c05-4af7-b93f-80dd04b7c43d" />
 
 **Key Steps Completed 6/21/2025 and notes because I be forgetting how to do this:**
 
