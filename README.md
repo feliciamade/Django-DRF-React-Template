@@ -1,14 +1,4 @@
-# girlbytes
 
-Welcome to Girl Bytes – a support group and platform for women and girls in tech! This repository houses the codebase for our full-stack website.
-
----
-
-### **Project Setup & Progress Log**
-
-**6/21/2025 - Felicia's Progress Update:**
-
-Today, significant progress was made on establishing the core development environment for the Girl Bytes platform. The foundational React frontend and Django backend are now successfully set up and configured.
 
 **Key Steps Completed:**
 
@@ -83,3 +73,4 @@ Today, significant progress was made on establishing the core development enviro
 * **Create Custom Django Apps:** Begin building out specific Django applications for core features (e.g., `events`, `members`, `blog`, `ai_assistant`).
 * **Develop Core API Endpoints:** Start defining API endpoints, beginning with user authentication and membership management.
 * **Frontend-Backend Integration:** Implement basic data fetching from the React frontend to the Django API to confirm successful integration.
+
