@@ -4,7 +4,7 @@
 
 
 
-**Key Steps Completed 6/21/2025 and notes because I be forgetting how to do this:**
+**Steps Completed 6/21/2025 and notes because I be forgetting how to do this:**
 
 1.  **React Frontend Initialized:**
     * Command: `npx create-react-app frontend`
