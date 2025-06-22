@@ -1,1 +1,1 @@
-# girlbytes
+Django-DRF-React-Template
