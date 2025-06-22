@@ -9,7 +9,7 @@ function Homepage() {
       <HERO />
       <div className={styles.cardContainer}>
         <Card />
-        <Card color="#e3fc87"/>
+        <Card color="#e3fc87" />
         <Card color="#ffb6e6"/>
       </div>
     </div>

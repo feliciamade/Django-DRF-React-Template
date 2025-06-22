@@ -25,6 +25,11 @@ function HERO(props) {
     textAlign: 'center',
     color: color || 'white',
     textTransform: 'uppercase',
+    textDecoration: 'underline',
+    textDecorationStyle: 'wavy',
+    textDecorationColor: 'rgb(229, 255, 100)',
+    textDecorationThickness: '2.5px',
+    textUnderlineOffset: '20px',
   };
 
   const paragraphStyle = {

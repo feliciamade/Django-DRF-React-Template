@@ -7,7 +7,8 @@ import {
   faCog,
   faEnvelope,
   faRocket,
-  faMagnifyingGlass
+  faMagnifyingGlass,
+  faCode
 } from '@fortawesome/free-solid-svg-icons';
 import { faTwitter, faFacebook } from '@fortawesome/free-brands-svg-icons';
 import { faStar } from '@fortawesome/free-regular-svg-icons';
@@ -22,5 +23,6 @@ library.add(
   faTwitter,
   faFacebook,
   faStar,
-  faMagnifyingGlass
+  faMagnifyingGlass,
+  faCode
 );
