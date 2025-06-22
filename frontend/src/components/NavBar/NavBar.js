@@ -2,7 +2,7 @@ import React from 'react';
 import CustomNavLink from '../NavLink';
 import styles from './NavBar.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSearch, faUser } from '@fortawesome/free-solid-svg-icons';
+import { faComment, faUser } from '@fortawesome/free-solid-svg-icons';
 
 const NavBar = () => {
   return (
@@ -18,7 +18,7 @@ const NavBar = () => {
       </div>
 
       <div className={styles.navRight}>
-        <FontAwesomeIcon icon={faSearch} className={styles.navIcon} />
+        <FontAwesomeIcon icon={faComment} />
         <FontAwesomeIcon icon={faUser} className={styles.navIcon} />
       </div>
     </nav>
