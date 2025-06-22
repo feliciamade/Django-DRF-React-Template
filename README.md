@@ -1,6 +1,6 @@
 ![localhost_3001_ (1)](https://github.com/user-attachments/assets/a8fc257a-965e-4d05-90c8-836709f55e1b)
 
-**Key Steps Completed:**
+**Key Steps Completed 6/21/2025 and notes because I be forgetting:**
 
 1.  **React Frontend Initialized:**
     * Command: `npx create-react-app frontend`
@@ -60,12 +60,3 @@
         # Add production frontend URLs here when deployed
     ]
     ```
-
-
-
-### **Next Steps:**
-
-* **Create Custom Django Apps:** Begin building out specific Django applications for core features (e.g., `events`, `members`, `blog`, `ai_assistant`).
-* **Develop Core API Endpoints:** Start defining API endpoints, beginning with user authentication and membership management.
-* **Frontend-Backend Integration:** Implement basic data fetching from the React frontend to the Django API to confirm successful integration.
-
