@@ -3,19 +3,16 @@
 
 1.  **React Frontend Initialized:**
     * Command: `npx create-react-app frontend`
-    * Status: Successfully installed and functional.
 
 2.  **Python Virtual Environment Created & Activated:**
     * Command: `python -m venv venv`
     * **⭐ Activation Command:** `.\venv\Scripts\activate`
-    * Status: Essential for isolating project dependencies.
 
 3.  **Django Framework Installed:**
     * Command: `pip install django`
 
 4.  **Django Project Created:**
     * Command: `django-admin startproject backend .`
-    * Note: Project named 'backend' to clearly separate it from the 'frontend'. `manage.py` is located in the root directory alongside `backend/` and `frontend/`.
 
 5.  **Django REST Framework (DRF) Installed:**
     * Command: `pip install djangorestframework`
@@ -27,11 +24,9 @@
 
 7.  **Initial Database Migrations Applied:**
     * Command: `python manage.py migrate`
-    * Status: Default Django database tables are now set up.
 
 8.  **Django Superuser Created:**
     * Command: `python manage.py createsuperuser`
-    * Status: Admin account created for accessing the Django administration panel.
 
 9.  **Backend Settings Configured (`backend/settings.py`):**
     * Integrated `rest_framework` and `corsheaders` into `INSTALLED_APPS`.
@@ -65,7 +60,7 @@
     ]
     ```
 
----
+
 
 ### **Next Steps:**
 
