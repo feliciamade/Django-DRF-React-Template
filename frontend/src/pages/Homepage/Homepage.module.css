@@ -1,0 +1,43 @@
+.homepageContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding:100px;
+    background-color: #88a2ff;
+    height:50vh;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 60px;
+    word-wrap:normal;
+    font-weight: 400;
+    width:800px;
+    text-align: center;
+    color:rgb(25, 13, 70);
+    text-transform: uppercase;
+}
+
+.homepageContainer h1 {
+    font-size: 60px;
+    word-wrap:normal;
+    font-weight: 400;
+    width:800px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+
+button {
+    background-color: rgb(229, 255, 100);
+    padding:20px 40px;
+    border-radius: 5px;
+    border: none;
+    color:rgb(25, 48, 66);
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
