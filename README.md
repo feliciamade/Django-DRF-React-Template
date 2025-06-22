@@ -1,6 +1,6 @@
 ![localhost_3001_ (1)](https://github.com/user-attachments/assets/a8fc257a-965e-4d05-90c8-836709f55e1b)
 
-**Key Steps Completed 6/21/2025 and notes because I be forgetting:**
+**Key Steps Completed 6/21/2025 and notes because I be forgetting how to do this:**
 
 1.  **React Frontend Initialized:**
     * Command: `npx create-react-app frontend`
