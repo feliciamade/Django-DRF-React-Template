@@ -1,8 +1,4 @@
-
-<img width="944" alt="GirlBytes Website Color" src="https://github.com/user-attachments/assets/b94e018a-8bdc-4318-a32d-48b8031c5679" />
-
-
-
+<img width="944" alt="Screenshot 2025-06-23 171102" src="https://github.com/user-attachments/assets/3b326d33-7cf7-40be-b3cb-28f9c8e3a50e" />
 
 **Steps Completed 6/21/2025 and notes because I be forgetting how to do this:**
 
